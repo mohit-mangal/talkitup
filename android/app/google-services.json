@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489291765233",
+    "project_id": "talkitup-b5a99",
+    "storage_bucket": "talkitup-b5a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489291765233:android:f490300c3abf96b67b2050",
+        "android_client_info": {
+          "package_name": "com.example.talkitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489291765233-jh35pm2mn99th4njks4eopguvreob61d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMF9xSbu6YrUGyMQ4FA3fWYyfufwFGP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489291765233-jh35pm2mn99th4njks4eopguvreob61d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
